@@ -30,9 +30,10 @@ SV), normal screen mode (TV) or in colored mode (CV).
 
 The build are available for Windows, Linux and macOS. Click on the link to download the executable below.
 
-![https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)  
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
+[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
+[![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
+
 
 ## Images
 
