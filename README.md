@@ -32,8 +32,7 @@ The build are available for Windows, Linux and macOS. Click on the link to downl
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
 [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
-[![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)  
-
+[![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/releases/latest)
 
 ## Images
 
@@ -45,8 +44,8 @@ The build are available for Windows, Linux and macOS. Click on the link to downl
 
 ### Using background 1
 
-| SV version | TV version | CV version |
-|------------|------------|------------|
+| SV version                                                                                                                    | TV version                                                                                                                 | CV version                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![BG2_Green](https://github.com/Im-Rises/space-invaders-arcade-emulator/assets/59691442/433a9da2-cdb8-48f8-85b8-9e615766bdf9) | ![BG2_BW](https://github.com/Im-Rises/space-invaders-arcade-emulator/assets/59691442/7a5c9618-9fd6-48a5-81eb-81d5964aa98e) | ![BG2_Color](https://github.com/Im-Rises/space-invaders-arcade-emulator/assets/59691442/39adf0b0-2fe9-488d-a10f-b390c4c1141a) |
 
 ### Using background 2
@@ -81,17 +80,19 @@ before starting the game.
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/node.js.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/node.js.yml)
-[![ESLint](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/eslint.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/eslint.yml)
-[![CodeQL](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/codeql.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/codeql.yml)
-[![pages-build-deployment](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-website/actions/workflows/pages/pages-build-deployment)
+[![Node.js CI](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/node.js.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/node.js.yml)
+[![ESLint](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/eslint.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/eslint.yml)
+[![CodeQL](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/codeql.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/codeql.yml)
+[![Tauri](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/tauri.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/tauri.yml)
+[![tauri publish](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/tauri-publish.yml/badge.svg)](https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri/actions/workflows/tauri-publish.yml)
 
 The project is set up to run the following actions:
 
 - node.js.yml : Runs the tests for the Node.js project.
 - eslint.yml : Runs the ESLint linter on the project.
 - codeql.yml : Runs the CodeQL linter on the project.
-- pages-build-deployment : Publish the website
+- tauri.yml : Runs the Tauri build for the project.
+- tauri-publish.yml : Publish the Tauri build for the project.
 
 ## Libraries
 
@@ -100,21 +101,10 @@ React:
 
 Xo:  
 <https://github.com/xojs/xo>  
-<https://github.com/xojs/eslint-config-xo-react>  
-<https://github.com/xojs/eslint-config-xo-typescript>
+<https://github.com/xojs/eslint-config-xo-react>
 
 ESLint:  
 <https://eslint.org/docs/latest/user-guide/getting-started>
-
-GitHub gh-pages:  
-<https://github.com/gitname/react-gh-pages>
-
-P5.js:  
-<https://p5js.org/>  
-<https://www.npmjs.com/package/react-p5>
-
-react-device-detect:  
-<https://www.npmjs.com/package/react-device-detect>
 
 tauri:  
 <https://tauri.app/v1/guides/getting-started/setup/integrate/>
