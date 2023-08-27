@@ -1,6 +1,6 @@
 [package]
 name = "space-invaders-arcade-emulator-tauri"
-version = "0.1.0"
+version = "1.0.0"
 description = "Space Invaders Arcade Emulator using Rust React and Tauri"
 authors = ["Quentin MOREL (Im-Rises)"]
 license = "MIT"
