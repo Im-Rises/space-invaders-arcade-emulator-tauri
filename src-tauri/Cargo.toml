@@ -1,11 +1,11 @@
 [package]
-name = "app"
+name = "space-invaders-arcade-emulator-tauri"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
-default-run = "app"
+description = "Space Invaders Arcade Emulator using Rust React and Tauri"
+authors = ["Quentin MOREL (Im-Rises)"]
+license = "MIT"
+repository = "https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri"
+#default-run = "tauri"
 edition = "2021"
 rust-version = "1.60"
 

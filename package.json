@@ -4,6 +4,13 @@
   "homepage": "https://im-rises.github.io/space-invaders-arcade-emulator-tauri/",
   "private": true,
   "description": "Space Invaders Arcade Emulator Tauri",
+  "repository": {
+    "url": "https://github.com/Im-Rises/space-invaders-arcade-emulator-tauri",
+    "type": "git",
+    "directory": "space-invaders-arcade-emulator-tauri"
+  },
+  "author": "Quentin MOREL (Im-Rises)",
+  "license": "MIT",
   "dependencies": {
     "@tauri-apps/api": "^1.4.0",
     "@testing-library/jest-dom": "^5.16.5",
