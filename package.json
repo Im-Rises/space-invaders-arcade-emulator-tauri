@@ -1,8 +1,9 @@
 {
-  "name": "space-invaders-arcade-emulator-website",
+  "name": "space-invaders-arcade-emulator-tauri",
   "version": "0.1.0",
-  "homepage": "https://im-rises.github.io/space-invaders-arcade-emulator-website/",
+  "homepage": "https://im-rises.github.io/space-invaders-arcade-emulator-tauri/",
   "private": true,
+  "description": "Space Invaders Arcade Emulator Tauri",
   "dependencies": {
     "@tauri-apps/api": "^1.4.0",
     "@testing-library/jest-dom": "^5.16.5",
