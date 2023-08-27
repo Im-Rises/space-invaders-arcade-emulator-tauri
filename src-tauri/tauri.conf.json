@@ -30,7 +30,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.imrises.dev",
-      "longDescription": "",
+      "longDescription": "Space Invaders Emulator compiled with Tauri",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -39,7 +39,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "Space Invaders Emulator",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
