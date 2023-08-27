@@ -3,9 +3,9 @@ import SiGamePanel from './components/SiGamePanel';
 import './App.scss';
 
 const App = () => (
-    <>
-        <SiGamePanel/>
-    </>
+	<>
+		<SiGamePanel/>
+	</>
 );
 
 export default App;
