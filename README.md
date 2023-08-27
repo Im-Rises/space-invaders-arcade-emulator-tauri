@@ -118,6 +118,9 @@ react-device-detect:
 tauri:  
 <https://tauri.app/v1/guides/getting-started/setup/integrate/>
 
+tauri-action:  
+<https://github.com/tauri-apps/tauri-action>
+
 ## Links
 
 Check the source code

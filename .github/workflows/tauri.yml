@@ -1,4 +1,4 @@
-name: Release
+name: Tauri
 on:
   push:
     branches:
